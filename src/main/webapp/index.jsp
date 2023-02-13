@@ -1,2 +1,1 @@
-<%@ include file="WEB-INF/pages/index.jsp" %>
-hiiiiii
+HAI anitha
